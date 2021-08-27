@@ -1,7 +1,7 @@
 import math
 
 def main():
-    # Escribe tu código abajo de esta líneaa
+    # Escribe tu código abajo de esta líneaaa
     a=int(input("Da el valor de a: "))
     b=int(input("Da el valor de b: "))
     c=int(input("Da el valor de c: "))
